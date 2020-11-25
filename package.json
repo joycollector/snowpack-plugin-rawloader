@@ -1,0 +1,23 @@
+{
+  "name": "snowpack-plugin-rawloader",
+  "version": "0.0.1",
+  "description": "Plugin which resolves file import to a string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joycollector/snowpack-plugin-rawloader.git"
+  },
+  "keywords": [
+    "snowpack",
+    "plugin"
+  ],
+  "author": "Sergei Kasoverskij <joycollector@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joycollector/snowpack-plugin-rawloader/issues"
+  },
+  "homepage": "https://github.com/joycollector/snowpack-plugin-rawloader#readme"
+}
